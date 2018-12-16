@@ -14,7 +14,7 @@ UnityのAssets > (画像ファイル選択し)右クリックメニュー に「
 
 ## 利用方法
 ### 1
-![2018-12-16 7](https://user-images.githubusercontent.com/45710234/50051602-f030f180-0158-11e9-955e-450489e87f60.png)  
+![2018-12-16 13](https://user-images.githubusercontent.com/45710234/50051707-608c4280-015a-11e9-868e-11588191a230.png)  
 Hierarchy右クリック>2D Object>Spriteを押してSpriteを配置(複数)します。　　
 
 ### 2
